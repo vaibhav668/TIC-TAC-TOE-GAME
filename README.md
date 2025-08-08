@@ -1,3 +1,4 @@
+
 # 🎮 Tic Tac Toe Game (Python)
 
 Hey guys!!!  
@@ -25,3 +26,5 @@ It's a **2-player game** that runs in the terminal.
 
 1. Make sure Python is installed
 2. Run the file:
+
+<img width="502" height="261" alt="Screenshot 2025-08-08 164107" src="https://github.com/user-attachments/assets/1cca09c9-c264-43c8-b81e-47937219c881" />   
